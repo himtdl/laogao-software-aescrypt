@@ -1,9 +1,6 @@
-# laogao-software-aescrypt
-一个本地且完全不联网的AES加解密小工具！使用RUST制作！ | A local AES encryption and decryption tool that works offline! Made with Rust！ | EXE
-
 # [老高之家] AES 加解密小工具
 
-> 一款纯本地、无广告的 AES 文件加密/解密工具，由 `laogaoshome.top` 开发维护。
+> 一款纯本地、无广告的 AES 文件加密/解密工具，由 `Boss_Gao@qq.com` 开发维护。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)

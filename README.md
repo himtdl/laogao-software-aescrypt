@@ -109,7 +109,7 @@
 
 ## 👤 作者与联系
 
-- 作者：himtdl
+- 作者：`himtdl`
 - GitHub：[https://github.com/himtdl/laogao-software-aescrypt](https://github.com/himtdl/laogao-software-aescrypt)
 - Gitee（国内同步）：[https://gitee.com/himtdl/laogao-software-aescrypt](https://gitee.com/himtdl/laogao-software-aescrypt)
 - 反馈问题：请在 GitHub 仓库提交 [Issue](https://github.com/himtdl/laogao-software-aescrypt/issues)

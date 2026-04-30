@@ -1,6 +1,6 @@
 # [老高之家] AES 加解密小工具
 
-> 一款纯本地、无广告的 AES 文件加密/解密工具，由 `Boss_Gao@qq.com` 开发维护。
+> 一款纯本地、无广告的 AES 文件加密/解密工具，由 `himtdl` 开发维护。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
@@ -109,7 +109,7 @@
 
 ## 👤 作者与联系
 
-- 作者：Boss_Gao@qq.com
+- 作者：himtdl
 - GitHub：[https://github.com/himtdl/laogao-software-aescrypt](https://github.com/himtdl/laogao-software-aescrypt)
 - Gitee（国内同步）：[https://gitee.com/himtdl/laogao-software-aescrypt](https://gitee.com/himtdl/laogao-software-aescrypt)
 - 反馈问题：请在 GitHub 仓库提交 [Issue](https://github.com/himtdl/laogao-software-aescrypt/issues)
